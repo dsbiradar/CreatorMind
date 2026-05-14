@@ -363,25 +363,21 @@ See the full [LICENSE](./LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-<div align="center">
 
-### Built with ❤️ by OMKAR-tech-hub
 
-[![GitHub](https://img.shields.io/badge/GitHub-OMKAR--tech--hub-181717?style=for-the-badge&logo=github)](https://github.com/OMKAR-tech-hub)
+### Built with ❤️ by dsbirdar
+
+
 
 *"The future belongs to creators who move at the speed of AI."*
-
+https://github.com/dsbiradar
 ---
 
 ⭐ **If CreatorMind AI inspires you, drop a star on GitHub — it means the world.**
 
-[![Star on GitHub](https://img.shields.io/github/stars/OMKAR-tech-hub/creatormind-ai?style=social)](https://github.com/OMKAR-tech-hub/creatormind-ai)
-
 </div>
 
 ---
-
-<div align="center">
 
 **CreatorMind AI** · Built with Next.js · Powered by Gemini · Designed for Creators
 
