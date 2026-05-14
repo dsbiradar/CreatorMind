@@ -172,7 +172,7 @@ CreatorMind AI is built to *feel* as futuristic as it performs.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/OMKAR-tech-hub/creatormind-ai.git
+git clone https://https://github.com/dsbiradar/creatormind-ai.git
 
 # 2. Navigate into the project
 cd creatormind-ai
@@ -340,7 +340,7 @@ Open an issue with the `bug` label and include:
 ```
 MIT License
 
-Copyright (c) 2025 OMKAR-tech-hub
+Copyright (c) 2025 dsbiradar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
